@@ -661,3 +661,10 @@ hr {
     color: #fff;
     background-color: #f38181;
 }
+
+/* Logos
+=================================*/
+.logos {
+    max-width: 100%;
+    height: auto;
+}
